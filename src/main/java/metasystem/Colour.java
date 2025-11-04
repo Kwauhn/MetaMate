@@ -7,6 +7,7 @@ import java.util.Objects;
  *
  * @author Kwauhn
  * @version 0.0.1-pre-alpha
+ *
  * @param hue hue of the Colour (0 and 1 being red, with every other hue in-between)
  * @param saturation saturation of the Colour (0 being greyscale and 1 being full-colour)
  * @param value value of the Colour (0 being black and 1 being full brightness)

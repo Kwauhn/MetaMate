@@ -4,6 +4,7 @@ package metasystem;
  * A physical object or visual cue captured in a Google Street View panorama.
  *
  * @author Kwauhn
+ * @version 0.0.1-pre-alpha
  */
 public abstract class Meta {
 

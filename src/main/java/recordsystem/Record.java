@@ -5,7 +5,12 @@ import metasystem.Meta;
 import java.net.URI;
 import java.util.Date;
 
-
+/**
+ * A record of some meta in some Google Street View location.
+ *
+ * @author Kwauhn
+ * @version 0.0.1-pre-alpha
+ */
 public class Record {
 
     private Meta meta;
