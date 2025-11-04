@@ -10,6 +10,7 @@ public abstract class Meta {
 
     private static int sequence = 0;
 
+    // bla
     private final int id;
 
     /**
